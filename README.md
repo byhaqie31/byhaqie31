@@ -155,26 +155,6 @@ Every product tells a story
 
 <div align="center">
 
-### Stats
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=byhaqie31&show_icons=true&hide_border=true&bg_color=00000000&title_color=f5f5f7&icon_color=86868b&text_color=86868b&ring_color=f5f5f7&hide_title=true&hide_rank=true" width="420"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=byhaqie31&hide_border=true&background=00000000&ring=F5F5F7&fire=F5F5F7&currStreakNum=F5F5F7&sideNums=86868B&currStreakLabel=86868B&sideLabels=86868B&dates=86868B" width="420"/>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
 ### Currently reading, thinking, building.
 
 <br>
